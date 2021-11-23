@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Cover](https://github.com/Yannick-Beau/Yannick-Beau/blob/main/img/Yannick%20Beau.svg)
+![Cover](https://github.com/Yannick-Beau/Yannick-Beau/blob/main/img/Yannick%20Beau.png)
 
 <!--
 **Yannick-Beau/Yannick-Beau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
